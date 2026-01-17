@@ -15,10 +15,7 @@ This project addresses systemic logistics challenges by analyzing a global suppl
 * **Geospatial Intelligence:** Pinpointed Western Europe as the primary revenue-generating market, while identifying it as a high-risk zone for logistics volatility.
 * **Seasonality Analysis:** Discovered recurring performance degradation during June and December, signaling a requirement for seasonal capacity scaling and predictive planning.
 
-## Repository Technical Assets
-* **Supply_Chain_Logic.ipynb:** Documentation of Spark SQL transformations and data cleaning logic.
-* **Supply_Chain_Architecture.pbix:** The core Power BI data model and interactive visualization layers.
-* **Executive_Summary.png:** High-resolution overview of the finalized analytics dashboard.
+
 
 ## Strategic Recommendations
 1. **Carrier Audit:** Conduct a logistics performance review for the Western European "Golf" category to mitigate potential customer churn.
